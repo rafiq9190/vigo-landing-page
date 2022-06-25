@@ -4,7 +4,7 @@ import { StaticImage } from "gatsby-plugin-image"
 function Footer() {
   return (
     <div className=" footer-d mx-64 px-12 bg-white  h-auto my-24">
-      <div className="flex flex-wrap align-middle">
+      <div className="flex footer-wrap align-middle">
         <span className=" ">
           <StaticImage src="../images/facebook.png" className="my-6" />
           <StaticImage src="../images/Line.png" className="mx-4" />
