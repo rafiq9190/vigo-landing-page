@@ -17,7 +17,7 @@ function Gather() {
           <p className=" g-font hero-p1 lg:text-5xl text-rock-500 font-semibold py-8 ">
             We gather high-ranking keywords used by your target audience
           </p>
-          <p className="text-xl text-rock-500 hero-p1">
+          <p className=" gg-font lg:text-xl text-rock-500 hero-p1">
             We keep our customers informed in real-time about what is important
             to them. We communicate clearly, because in the world of marketing,
             honesty wins!

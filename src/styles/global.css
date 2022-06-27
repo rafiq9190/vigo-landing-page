@@ -138,6 +138,10 @@ h6 {
     padding: 5px;
     margin-bottom: 10px;
   }
+  .gg-font {
+    font-size: 25px;
+    padding-top: 10px;
+  }
   .footer-d {
     margin: 0px;
   }
@@ -162,6 +166,10 @@ h6 {
   }
   .strategy-btn {
     font-size: 16px !important;
+  }
+  .gg-font {
+    font-size: 25px;
+    padding-top: 10px;
   }
   .strategy-heading p {
     text-align: center;

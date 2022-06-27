@@ -20,7 +20,7 @@ function Hero() {
               Increase the number of visitors to your website by appearing
               organically at the top of the major search engines results pages.
             </p>
-            <div className="bg-orange-400 w-5 h-5 rounded-full absolute inset-y-72 right-[51.9rem]  "></div>
+            {/* <div className="bg-orange-400 w-5 h-5 rounded-full absolute inset-y-72 right-[51.9rem]  "></div> */}
 
             <div className="  heroBtn lg:px-6 py-3 ">
               <button className="bg-indigo-400 p-1 rounded-md text-white font-semibold ">
