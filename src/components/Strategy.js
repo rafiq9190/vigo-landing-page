@@ -30,7 +30,7 @@ function Strategy() {
                 01. Campaign Action Plan
               </div>
             </div>
-            <p className="text-lynch-500 text-[20px]  mb-4 ">
+            <p className="text-lynch-500 text-[20px]  mb-4 s-center ">
               Identify your company's needs and align them with your goals,
               allowing us to take the next step forward.
             </p>
@@ -44,7 +44,7 @@ function Strategy() {
                 02. Custom Campaign Creation
               </div>
             </div>
-            <p className="text-lynch-500 text-[20px] mb-4  ">
+            <p className="text-lynch-500 text-[20px] mb-4 s-center ">
               Your SEO campaigns will be built from the ground up to meet the
               needs of your business, customers, and goals.
             </p>
@@ -58,7 +58,7 @@ function Strategy() {
                 03. Launch, Optimize & Scale
               </div>
             </div>
-            <p className="text-lynch-500 text-[20px] strategy-inner mb-4  ">
+            <p className="text-lynch-500 text-[20px] strategy-inner mb-4 s-center  ">
               High-quality content on a regular basis, scale your campaign, and
               take your brand to the next level!
             </p>

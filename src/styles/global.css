@@ -72,7 +72,7 @@ h6 {
 .vec-shape {
   z-index: 1000;
 }
-@media screen and (min-width: 329px) and (max-width: 767px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .heroBtn {
     display: flex;
     justify-content: center;
@@ -168,6 +168,9 @@ h6 {
     font-size: 30px;
     margin-top: 8px;
   }
+  .s-center {
+    text-align: center;
+  }
 
   .strategy-inner-heading {
     display: flex;
@@ -183,6 +186,7 @@ h6 {
   .g-font {
     font-size: 30px;
   }
+
   .footer-wrap {
     flex-wrap: wrap;
   }
