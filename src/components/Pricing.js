@@ -6,7 +6,7 @@ import { StaticImage } from "gatsby-plugin-image"
 function Pricing() {
   return (
     <div className="bg-selago-500 lg:bg-selago-500 mt-20 h-auto">
-      <p className="text-center text-5xl font-semibold text-rock-500 g-font pt-20">
+      <p className="text-center text-5xl font-medium text-rock-500 g-font pt-20">
         Plans which turn your bussines to the new level
       </p>
       <p className="text-center text-lynch-500 text-xl mt-3">

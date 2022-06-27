@@ -119,7 +119,7 @@ h6 {
   }
   .s-heading {
     font-size: 21px !important;
-    font-weight: 700;
+    font-weight: 500;
     margin-left: 10px;
     margin-top: 2px;
   }
@@ -137,6 +137,7 @@ h6 {
   .review-detail {
     padding: 5px;
     margin-bottom: 10px;
+    margin-top: 10px;
   }
   .gg-font {
     font-size: 25px;

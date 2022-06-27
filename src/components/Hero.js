@@ -10,8 +10,8 @@ function Hero() {
           alt="rounder"
           className="relative z-40"
         /> */}
-        <div className="lg:grid grid-rows-1 grid-flow-col gap-3 ">
-          <div className=" px-1 py-16 relative ">
+        <div className="lg:grid grid-rows-1 grid-flow-col  relative gap-3 ">
+          <div className=" px-1 py-16  ">
             <p className=" hero-p1 text-center px-6 text-rock-500 font-semibold  lg:text-left text-6xl text-semibold  px-6  ">
               Make your website load faster, optmize your images and boost your
               seo.
@@ -20,7 +20,7 @@ function Hero() {
               Increase the number of visitors to your website by appearing
               organically at the top of the major search engines results pages.
             </p>
-            {/* <div className="bg-orange-400 w-5 h-5 rounded-full absolute inset-y-72 right-[51.9rem]  "></div> */}
+            <div className="bg-orange-400 w-5 h-5 rounded-full absolute inset-y-72 left-[-13px]  "></div>
 
             <div className="  heroBtn lg:px-6 py-3 ">
               <button className="bg-indigo-400 p-1 rounded-md text-white font-semibold ">

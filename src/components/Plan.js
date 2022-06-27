@@ -11,15 +11,15 @@ function Plan() {
       </div> */}
       <div className=" lg:mx-64 px-12 bg-white  h-auto my-24 plan z-0 bg-center rounded-[50px] bg-no-repeat bg-cover w-100 h-auto">
         <div className="vec-shape bg-no-repeat bg-contain">
-          <p className="  text-white text text-5xl text-center  g-font pt-20">
+          <p className="  text-white text text-5xl text-center  g-font pt-10">
             Want to talk about plans?<br></br>Or have another question?
           </p>
-          <p className="review-detail text-white text-xl text-center px-28 py-5">
+          <p className="review-detail text-white text-xl text-center px-28 py-7">
             Your digital consultant will also be able to create kickstart
             campaigns that are best suited for your organization and within your
             budget.
           </p>
-          <div className="flex justify-center pb-10">
+          <div className="flex justify-center pt-5 pb-10">
             <button className="p-1 text-white border-2 border-white rounded-md">
               {" "}
               Call me Back
