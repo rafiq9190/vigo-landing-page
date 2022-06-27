@@ -4,7 +4,7 @@ function WorkingWithUs() {
   return (
     <>
       <div className="container mx-auto px-3 text-center working w-3/6 ">
-        <p className="working-heading lg: mt-16 text-rock-500 text-5xl font-semibold  ">
+        <p className="hero-p1  lg: mt-16 text-rock-500 text-5xl font-semibold  ">
           Increase your appearing at the top of the major search engines
         </p>
         <p className="text-xl text-lynch-500 mt-4 mb-4">
@@ -13,7 +13,7 @@ function WorkingWithUs() {
         </p>
       </div>
       <div className="lg:mx-20 px-6 ">
-        <div className="block  h-auto  lg:bg-panache-500 border-panache-500 border-2 flex-wrap border rounded-[24px] flex   justify-around mt-2 bt-2 	">
+        <div className="block    lg:bg-panache-500 border-panache-500 border-2 flex-wrap border rounded-[24px] flex   justify-around mt-2 bt-2 	">
           <div className=" w-screen lg:w-1/3 my-10 text-center px-20">
             <p className="text-plam-500 text-3xl font-semibold">+153%</p>
             <p className="text-center text-viridian-500 text-base px-10 mt-2  ">

@@ -10,7 +10,7 @@ function Strategy() {
         <div className="strategy-heading h-auto lg:mx-28 px-6 mx-auto  mt-3 flex justify-center ">
           <div className="w-4 h-4 circle bg-salomie-500 rounded-full mx-16 mt-2"></div>
           <div>
-            <p className="text-rock-500 text-5xl font-semibold">
+            <p className=" hero-p1  text-rock-500 text-5xl font-semibold">
               Get the best strategie right just for you!
             </p>
           </div>
@@ -26,11 +26,11 @@ function Strategy() {
                   <BsCheck className="relative right-[2px] bottom-[2px] text-2xl	" />
                 </span>
               </div>
-              <div className=" s-heading text-[28px] mb-1	 text-rock-500 text-semibold ml-3">
+              <div className=" s-heading text-[28px] mb-1	 text-rock-500 font-semibold ml-3">
                 01. Campaign Action Plan
               </div>
             </div>
-            <p className="text-lynch-500 text-[20px] strategy-inner mb-4 ">
+            <p className="text-lynch-500 text-[20px]  mb-4 ">
               Identify your company's needs and align them with your goals,
               allowing us to take the next step forward.
             </p>
@@ -40,11 +40,11 @@ function Strategy() {
                   <BsCheck className="relative right-[2px] bottom-[2px] text-2xl	" />
                 </span>
               </div>
-              <div className=" s-heading text-[28px]	mb-1 text-rock-500 text-semibold ml-3">
+              <div className=" s-heading  text-[28px]	mb-1 text-rock-500 font-semibold ml-3">
                 02. Custom Campaign Creation
               </div>
             </div>
-            <p className="text-lynch-500 text-[20px] mb-4 strategy-inner ">
+            <p className="text-lynch-500 text-[20px] mb-4  ">
               Your SEO campaigns will be built from the ground up to meet the
               needs of your business, customers, and goals.
             </p>
@@ -54,11 +54,11 @@ function Strategy() {
                   <BsCheck className="relative right-[2px] bottom-[2px] text-2xl	" />
                 </span>
               </div>
-              <div className=" s-heading text-[28px] mb-1	 text-rock-500 text-semibold ml-3">
+              <div className=" s-heading text-[28px] mb-1	 text-rock-500 font-semibold ml-3">
                 03. Launch, Optimize & Scale
               </div>
             </div>
-            <p className="text-lynch-500 text-[20px] strategy-inner mb-4 ">
+            <p className="text-lynch-500 text-[20px] strategy-inner mb-4  ">
               High-quality content on a regular basis, scale your campaign, and
               take your brand to the next level!
             </p>

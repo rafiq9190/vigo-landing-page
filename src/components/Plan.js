@@ -11,7 +11,7 @@ function Plan() {
       </div> */}
       <div className=" lg:mx-64 px-12 bg-white  h-auto my-24 plan z-0 bg-center rounded-[50px] bg-no-repeat bg-cover w-100 h-auto">
         <div className="vec-shape bg-no-repeat bg-contain">
-          <p className="text-white text text-5xl text-center  g-font pt-20">
+          <p className="  text-white text text-5xl text-center  g-font pt-20">
             Want to talk about plans?<br></br>Or have another question?
           </p>
           <p className="review-detail text-white text-xl text-center px-28 py-5">

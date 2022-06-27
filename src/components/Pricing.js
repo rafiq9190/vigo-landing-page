@@ -15,16 +15,16 @@ function Pricing() {
       <div className="flex flex-wrap   justify-center  pt-10 pb-20 ">
         <div className=" bg-white card-resize  lg:bg-white w-1/4 py-5 px-5 mr-6 rounded-3xl">
           <div className="flex justify-between">
-            <p className="text-2xl text-rock-500	">Basic</p>
+            <p className="text-xl lg:text-2xl text-rock-500	">Basic</p>
             <div className="text-apple-500 bg-jagged-500 p-1 rounded-md ">
-              <p className="text-semibold">Save 50%</p>
+              <p className="text-md lg:text-semibold">Save 50%</p>
             </div>
           </div>
           <p className="text-lynch-500 text-xl mt-3">
             <del>$10</del>
           </p>
           <p>
-            <span className="text-rock-500 text-6xl">$5</span>
+            <span className="price-size lg:text-rock-500 text-6xl">$5</span>
             <span className="text-lynch-500 text-xl text-osloGray-500">
               /month
             </span>
@@ -87,16 +87,16 @@ function Pricing() {
         {/* //other card */}
         <div className=" card-resize bg-white lg:bg-white w-1/4 py-5 px-5 mr-6 rounded-3xl">
           <div className="flex justify-between">
-            <p className="text-2xl text-rock-500	">Premium</p>
+            <p className="text-xl lg:text-2xl text-rock-500	">Premium</p>
             <div className="text-apple-500 bg-jagged-500 p-1 rounded-md ">
-              <p className="text-semibold">Save 50%</p>
+              <p className="text-md lg:text-semibold">Save 50%</p>
             </div>
           </div>
           <p className="text-lynch-500 text-xl mt-3">
             <del>$20</del>
           </p>
           <p>
-            <span className="text-rock-500 text-6xl">$10</span>
+            <span className=" price-size  lg:text-rock-500 text-6xl">$10</span>
             <span className="text-lynch-500 text-xl text-osloGray-500">
               /month
             </span>
@@ -161,16 +161,16 @@ function Pricing() {
         {/* thrid card */}
         <div className="card-resize bg-white lg:bg-white w-1/4 py-5 px-5  rounded-3xl">
           <div className="flex justify-between">
-            <p className="text-2xl text-rock-500	">Business</p>
+            <p className="text-xl lg:text-2xl text-rock-500	">Business</p>
             <div className="text-apple-500 bg-jagged-500 p-1 rounded-md ">
-              <p className="text-semibold">Save 50%</p>
+              <p className="text-md lg:text-semibold">Save 50%</p>
             </div>
           </div>
           <p className="text-lynch-500 text-xl mt-3">
             <del>$50</del>
           </p>
           <p>
-            <span className="text-rock-500 text-6xl">$100</span>
+            <span className="price-size lg:text-rock-500 text-6xl">$100</span>
             <span className="text-lynch-500 text-xl text-osloGray-500">
               /month
             </span>

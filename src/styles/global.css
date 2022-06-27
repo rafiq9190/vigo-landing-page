@@ -72,7 +72,7 @@ h6 {
 .vec-shape {
   z-index: 1000;
 }
-@media screen and (min-width: 375px) and (max-width: 767px) {
+@media screen and (min-width: 329px) and (max-width: 767px) {
   .heroBtn {
     display: flex;
     justify-content: center;
@@ -89,7 +89,6 @@ h6 {
   }
   .g-font {
     font-size: 30px;
-    font-weight: 600;
   }
   .hero-p1 {
     font-size: 30px;
@@ -119,18 +118,15 @@ h6 {
     font-size: 30px;
   }
   .s-heading {
-    font-size: 22px !important;
+    font-size: 21px !important;
     font-weight: 700;
-    /* margin-left: 5px; */
+    margin-left: 10px;
+    margin-top: 2px;
   }
   .strategy-btn {
     justify-content: center;
   }
-  .strategy-inner {
-    text-align: center;
-    margin-right: 1rem;
-    margin-left: 1rem;
-  }
+
   .img-resize {
     width: 100%;
   }
@@ -161,7 +157,9 @@ h6 {
   }
   .circle {
   }
-
+  .img-resize {
+    width: 100%;
+  }
   .strategy-btn {
     font-size: 16px !important;
   }
@@ -171,12 +169,8 @@ h6 {
     margin-top: 8px;
   }
 
-  .strategy-inner {
-    text-align: center;
-    margin-right: 1rem;
-    margin-left: 1rem;
-  }
   .strategy-inner-heading {
+    display: flex;
     justify-content: center;
   }
   .strategy-btn {
@@ -186,8 +180,14 @@ h6 {
     display: flex;
     justify-content: center;
   }
+  .g-font {
+    font-size: 30px;
+  }
   .footer-wrap {
     flex-wrap: wrap;
+  }
+  .price-size {
+    font-size: 46px;
   }
 }
 @media screen and (min-width: 976px) {
