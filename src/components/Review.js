@@ -4,7 +4,7 @@ function Review() {
   return (
     <>
       <div className="bg-chromeWhite-500 w-100 h-auto py-10 relative ">
-        <p className="text-center text-5xl text-rock-500 g-font pt-8">
+        <p className="text-center text-5xl font-semibold text-rock-500 g-font pt-8">
           What people says about us
         </p>
         <div className="bg-white h-auto w-2/3 m-auto rounded-3xl my-10 p-5">
